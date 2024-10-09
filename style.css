@@ -1,0 +1,35 @@
+header {
+    border-bottom: solid 2px rgb(87, 87, 87);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(255, 255, 255);
+}
+
+
+body{
+    color: rgb(0, 0, 0);
+    background-color: blueviolet;
+} 
+
+iframe{
+    max-width: 650px;
+    max-height: 405px;
+}
+
+img{
+    max-width: 860px;
+    max-height: 415px;
+}
+.creepster-regular {
+    font-family: "Creepster", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+.Filmes-1 {
+    display: flex;
+}  
+
+.Filmes-1 img {
+    height: 200px;
+}
